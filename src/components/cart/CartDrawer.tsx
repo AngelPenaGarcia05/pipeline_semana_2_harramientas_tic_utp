@@ -76,7 +76,7 @@ export default function CartDrawer() {
                 ))}
               </ul>
             </div>
-            <div className="border-t border-gray-100 px-5 py-4">
+            <div className="border-t border-gray-200 px-5 py-4">
               <div className="mb-1 flex items-center justify-between text-sm text-gray-500">
                 <span>Subtotal</span>
                 <span className="font-semibold text-gray-900">
