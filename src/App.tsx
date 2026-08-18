@@ -1,12 +1,4 @@
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
-import { StoreProvider } from './context/StoreContext'
-import Layout from './components/layout/Layout'
-import StorePage from './pages/StorePage'
-import InventoryPage from './pages/InventoryPage'
-import SalesPage from './pages/SalesPage'
-import ToastViewport from './components/ui/ToastViewport'
-
-export default function App() {
+import { Browsion App() {
   return (
     <StoreProvider>
       <BrowserRouter>
